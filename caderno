@@ -1,0 +1,8 @@
+Comandos no terminal
+- ng new primeiro-projeto --> Cria projeto com bibliotecas
+- ng serve --> para esse código seja servido ao browser
+- ctrl + c --> encerra ng serve
+- ng g c meu-primeiro --> Cria component com angularcli
+- tsc main.ts --> compila o arquivo typeScript
+
+
